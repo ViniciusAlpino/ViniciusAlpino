@@ -24,7 +24,7 @@
     align="center" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-left: 20px;" 
+    style="padding-left: 30px;" 
     src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
