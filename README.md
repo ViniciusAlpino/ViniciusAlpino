@@ -7,7 +7,7 @@
   
   <samp>
       <br>
-       <b>Vinicius Alpino</b>
+       <h1>Vinicius Alpino</h1>
   </samp>
 </div>
 
