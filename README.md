@@ -1,31 +1,24 @@
-# 👨‍💻 Vinicius Alpino
-**`Desenvolvedor Mobile`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=black"/>
 
-Me chamo Vinicius Alpino Redondo, Tenho 21 anos e sou de Franca São Paulo, Concluí o ensino mêdio no Mario D`Elia. Atualmente Estou cursando Analise e Desenvolvimento de Sistemas na Unifran, universidade da Minha cidade, Estou estudando Diariamente para me tornar um Dev Mobile.
+<br>
 
-   <p align="left">
-      <a href="https://github.com/ViniciusAlpino?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ViniciusAlpino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-         </a>
-      <a href="https://www.instagram.com/vinicius_alpino/" alt="Instagram" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME"></a>
-   </p>
+<div align="center">
+  
+  
+  <samp>
+      <br>
+       <b>Vinicius Alpino</b>
+  </samp>
+</div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-### 🤖 Linguagens e Tecnologias 
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-
- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-
- <br/>
- <br/>
-
- ### 📊
+<br>  
+<br>
+<br>
+      
 <p>
   <img 
     align="left" 
@@ -34,7 +27,6 @@ Me chamo Vinicius Alpino Redondo, Tenho 21 anos e sou de Franca São Paulo, Conc
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -43,3 +35,56 @@ Me chamo Vinicius Alpino Redondo, Tenho 21 anos e sou de Franca São Paulo, Conc
   />
 
 </p>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+ 
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:redondovinicius@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://https://www.instagram.com/vinicius_alpino/)
+  
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=2aa889&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer"/>
