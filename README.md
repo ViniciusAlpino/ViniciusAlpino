@@ -70,8 +70,14 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:redondovinicius@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://https://www.instagram.com/vinicius_alpino/)
+  <p align="left">
+      <a href="redondovinicius@gmail.com">
+         <img alt="email" title="Follow me on Github" src="https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff"/>
+         </a>
+      <a href="https://www.instagram.com/vinicius_alpino/" alt="Instagram" title="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff"></a>
+   </p>
+  
   
 </div>
 <br>
