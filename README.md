@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=black"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080"/>
 
 <br>
 
@@ -71,7 +71,7 @@
   <br>
 
   <p align="left">
-      <a href="redondovinicius@gmail.com">
+      <a href="mailto:redondovinicius@gmail.com">
          <img alt="email" title="Follow me on Github" src="https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff"/>
          </a>
       <a href="https://www.instagram.com/vinicius_alpino/" alt="Instagram" title="Instagram" target="_blank">
@@ -94,4 +94,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=150&section=footer"/>
