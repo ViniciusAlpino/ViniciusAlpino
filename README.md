@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vinicius+Alpino;Eu+sou+do+Brasil,+SP;Eu+sou+Desenvolvedor+Web/Mobile;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<img src="[depositphotos_215454752-stock-illustration-github-icon-design-vector-illustration.png](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div style="display: inline_block">
 
