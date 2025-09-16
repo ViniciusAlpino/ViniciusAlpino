@@ -1,91 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Andre+Guerra;I'm+from+Brasil,+SP;I'm+a+Web/Mobile+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  
-  <samp>
-      <br>
-       <h1>Vinicius Alpino</h1>
-  </samp>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
-</div>
+<div style="display: inline_block">
 
-<br>  
-<br>
-<br>
-      
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-left: 30px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlpino&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<br/>  
+<p align="left"> 
+  🌎 Olá meu nome é Vinicius Alpino Redondo. Eu sou <strong>Web/Mobile developer</strong></strong>.
 </p>
 
-<div align="center" style="display: inline_block"><br>
+<p align="left">
   
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
- 
+  💌 Se você quiser conversar comigo, envie-me uma mensagem.
+</p>
+
+<h3 align="left">Cconecte-se comigo:</h3>
+<p align="left">
+<a href="https://api.whatsapp.com/send/?phone=5516988015052&text&app_absent=0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" alt="16992062879" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/31505185/vinicius-alpino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20978841" height="30" width="30" /></a>
+<a href="https://www.instagram.com/vinicius_alpino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Andre.guerra02" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-alpino-3255a82b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="w4llfl0w3r13" height="30" width="30" /></a>
+<a href="mailto:viniciusar.dev@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="wallflower408" height="30" width="30" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAiA2fmdBhBpEiwA4CcHzQZYwbY4Az6IL_lzQxhJd2yZ0eHlPlsigQw26G89NeIXB-v88Fx-9xoCXTwQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAiA2fmdBhBpEiwA4CcHzQZYwbY4Az6IL_lzQxhJd2yZ0eHlPlsigQw26G89NeIXB-v88Fx-9xoCXTwQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>   
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<sup><kbd>***[Click here](https://github.com/ViniciusAlpino?tab=repositories)***</kbd> *to view my projects.</sup>* <br>	
+
+<br/>    
+<p align="center">
+  <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&locale=en&theme=radical" alt="ViniciusAlpino"/>
+  <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusAlpino&theme=radical" alt="ViniciusAlpino" />
+</p> 
+<div align=center>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlpino&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
 </div>
 
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  <p align="left">
-      <a href="mailto:redondovinicius@gmail.com">
-         <img alt="email" title="Follow me on Github" src="https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff"/>
-         </a>
-      <a href="https://www.instagram.com/vinicius_alpino/" alt="Instagram" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff"></a>
-   </p>
-  
-  
+<div align="left">
+Stalkers 
+<p><img align="center" src="https://profile-counter.glitch.me/{ViniciusAlpino}/count.svg"/></p> 
 </div>
-<br>
 
-</details>
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
 
-##
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=150&section=footer"/>
+<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreWar10&theme=xcode) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
