@@ -36,14 +36,7 @@
   <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&locale=en&theme=radical" alt="ViniciusAlpino"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusAlpino&theme=radical" alt="ViniciusAlpino" />
 </p> 
-<div align=center>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlpino&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
-</div>
 
-<div align="left">
-Stalkers 
-<p><img align="center" src="https://profile-counter.glitch.me/{ViniciusAlpino}/count.svg"/></p> 
-</div>
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
