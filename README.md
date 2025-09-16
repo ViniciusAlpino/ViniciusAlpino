@@ -8,7 +8,7 @@
 
 <br/>  
 <p align="left"> 
-  🌎 Olá meu nome é Vinicius Alpino Redondo. Eu sou <strong>Web/Mobile developer</strong></strong>.
+  🌎 Olá meu nome é Vinicius Alpino Redondo. Eu sou <strong>Desenvolvedor Web/Mobile</strong></strong>.
 </p>
 
 <p align="left">
