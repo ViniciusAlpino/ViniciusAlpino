@@ -36,14 +36,4 @@
   <img width="400em" height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlpino&show_icons=true&locale=en&theme=radical" alt="ViniciusAlpino"/>
   <img width="400em" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusAlpino&theme=radical" alt="ViniciusAlpino" />
 </p> 
-
-
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusAlpino&theme=xcode) -->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
